@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="EEDD" Database="" Version="10000"/>
+<CodeLite_Workspace Name="EEDD" Database="" Version="10000">
+  <Project Name="PECLContrerasJesus" Path="PECLContrerasJesus/PECLContrerasJesus.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="PECLContrerasJesus" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="PECLContrerasJesus" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
